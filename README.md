@@ -99,7 +99,7 @@ Used aggregations, joins, and conditional computations to derive insights.
 ✅ Grouping & Sorting (GROUP BY, ORDER BY) → To rank sales trends.
 
 
-Insights & Business Impact
+🔍✨ Insights & Business Impact
 
 ✅ Identify best-selling pizzas & categories 🍕
 
@@ -107,7 +107,7 @@ Insights & Business Impact
 
 ✅ Analyze order frequency & customer demand 📈
 
-✅ Optimize pricing & inventory management 📦
+✅ Optimize pricing 📊💰
 
 ✅ Improve store operations & marketing strategies 📊
 
